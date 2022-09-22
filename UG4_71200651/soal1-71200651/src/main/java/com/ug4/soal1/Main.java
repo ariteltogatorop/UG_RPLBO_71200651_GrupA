@@ -80,8 +80,9 @@ public class Main {
         scanner.reset();
         if (destiny.isEmpty()) {
             System.out.println("\nAnda belum memasukan tujuan");
-            showDestination(bus, passenger);
+
         } else {
+            boolean routefound = false;
             var4 = bus.getRoute();
             var5 = var4.length;
 
@@ -89,16 +90,16 @@ public class Main {
                 route = var4[var6];
                 if (route.equalsIgnoreCase(destiny)) {
                     bus.proceedOrder(destiny, passenger);
+                    routefound = true;
                     System.out.flush();
-                } else {
-                    System.out.println("Maaf tujuan yang anda masukan tidak sesuai");
-                    showDestination(bus, passenger);
                 }
+            }
+            if(routefound) {
+                System.out.println("Maaf tujuan yang anda masukan tidak sesuai");
             }
         }
 
     }
-
     private static void topUpMenu(Bus bus, Passenger passenger) {
         System.out.println("Anda ingin top up ?");
         System.out.print("jawaban anda (ya/tidak): ");
