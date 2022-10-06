@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="771e9fa0-07cc-4335-adcd-41ae5d6f9e6a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../71200651-UG6-1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../71200651-UG6-1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../71200651-UG6-1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f608d8f5-d565-48e9-8f47-6c99b27950d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ug6/soal1/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ug6/soal1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ug6/soal1/vendingMachines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ug6/soal1/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UG5B_71200651/71200651-UG5B-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UG5B_71200651/71200651-UG5B-1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +26,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FRBiCG7T4ZwwmJQSDRzQiplmNG" />
+  <component name="ProjectId" id="2FkwkitzmQ1QsmWGjbVWg8j5Bu6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -40,46 +43,18 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.ug5b.soal1" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ug5b.soal1.App" />
-      <module name="71200651-UG5B-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ug5b.soal1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.App" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="771e9fa0-07cc-4335-adcd-41ae5d6f9e6a" name="Changes" comment="" />
-      <created>1664445143457</created>
+      <changelist id="f608d8f5-d565-48e9-8f47-6c99b27950d3" name="Changes" comment="" />
+      <created>1665049537048</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664445143457</updated>
-      <workItem from="1664445144579" duration="2037000" />
-      <workItem from="1664447211736" duration="1620000" />
-      <workItem from="1665049331003" duration="36000" />
-      <workItem from="1665049381122" duration="154000" />
+      <updated>1665049537048</updated>
+      <workItem from="1665049538236" duration="38000" />
+      <workItem from="1665049588656" duration="1033000" />
     </task>
     <servers />
   </component>
