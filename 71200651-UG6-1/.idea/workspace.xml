@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f608d8f5-d565-48e9-8f47-6c99b27950d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ug6/soal1/Codes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ug6/soal1/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ug6/soal1/Goods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ug6/soal1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ug6/soal1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ug6/soal1/vendingMachines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ug6/soal1/VendingMachines.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -89,7 +86,9 @@
       <option name="presentableId" value="Default" />
       <updated>1665049537048</updated>
       <workItem from="1665049538236" duration="38000" />
-      <workItem from="1665049588656" duration="5913000" />
+      <workItem from="1665049588656" duration="6011000" />
+      <workItem from="1665653948360" duration="189000" />
+      <workItem from="1665654151277" duration="380000" />
     </task>
     <servers />
   </component>
