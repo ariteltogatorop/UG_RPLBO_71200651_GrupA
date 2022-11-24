@@ -50,7 +50,9 @@ public class InstaPost {
     }
     public void printInfo(){
         System.out.println("Username: "+username);
+
         System.out.println("Email: "+email);
+
         System.out.println("Total Mention: "+totalMention);
     }
 
