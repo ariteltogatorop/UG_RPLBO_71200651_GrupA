@@ -38,6 +38,10 @@ public class Kassa {
         System.out.println("=========Nota=========");
         System.out.println("Kasir: " + kasir.getNama());
         System.out.println("No. Nama Barang     Jumlah  Harga      Sub Total");
+
+
+
+
         int c = 1;
         int total = 0;
         for (Produk produk: pesanan.keySet()){
@@ -51,9 +55,16 @@ public class Kassa {
         pesanan.clear();
     }
 
+
+
+
+
+
     public void printPenjualanKasir(){
         System.out.println("Daftar Kasir:");
         System.out.println("No.  Nama               Total Penjualan");
+
+        
         int c = 1;
         for (Kasir kasir: arrKasir){
             System.out.println(c + ".   " + kasir.getNama() + " ".repeat(19-kasir.getNama().length()) + "Rp" + kasir.getTotalPenjualan());
